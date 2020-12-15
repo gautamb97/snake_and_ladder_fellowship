@@ -7,5 +7,4 @@ public class SnakeAndLadder {
 class Player{
     int playerPosition = 0;
 
-    double die = Math.floor(Math.random() * 10 ) % 6;
 }
